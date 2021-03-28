@@ -22,4 +22,6 @@ The project is still in alpha, so I would say that it is not yet simple enough.
 * [Blueprint Structures](https://github.com/jpdante/UE4-JoyConDriver/wiki/Blueprint-Structures)
 
 ## Known issues
+* Working on a fix....Move the 'Detatch' and 'Disconnect' node chain to an Event End Play.
+* 
 * When connecting a Joy Con in the editor it will remain connected even after the simulation/play is over and will stop working when playing again, the only solution is to resume de connection with ResumeConnection node.
